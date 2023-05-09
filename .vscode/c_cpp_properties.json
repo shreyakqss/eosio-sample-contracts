@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/opt/eosio.cdt/1.8.1/include/eosiolib/core/**",
+                "/usr/opt/eosio.cdt/1.8.1/include/eosiolib/contracts/**",
+                "/usr/opt/eosio.cdt/1.8.1/include/boost/**",
+                "/usr/opt/eosio.cdt/1.8.1/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
