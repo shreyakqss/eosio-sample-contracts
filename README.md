@@ -5,3 +5,9 @@ Based on: https://developers.eos.io/welcome/v2.2/getting-started-guide/hello-wor
 
 
 Uses EOSIO-CDT v1.8.1
+
+Compile using
+
+```bash
+eosio-cpp -abigen -o hello.wasm hello.cpp
+```
